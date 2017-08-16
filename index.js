@@ -1,4 +1,4 @@
-var passwords = ['HACKLENDI',];
+var passwords = ['HACKLENDI'];
 var indexOld;
 var index = Math.floor((Math.random() * passwords.length));
 var password = passwords[index];
